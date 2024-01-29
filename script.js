@@ -161,14 +161,3 @@ document.addEventListener("keyup", function (e) {
 });
 
 
-//random notes, dont mind
-
-// CHANGE ANGLE AND DISTANCE NIOGGAA
-
-// everytime I move, the angle and distance will change. So I need to recalculate them.
-// grab x,y, update the angle and DISTANCE.
-// turn angle and distance into location, increment location and recalculate angle and distance.
-// use move() if keys are active
-
-
-//put at start of move
